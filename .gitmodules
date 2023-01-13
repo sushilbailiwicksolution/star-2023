@@ -1,3 +1,6 @@
 [submodule "star-api"]
 	path = star-api
 	url = https://github.com/sushilbailiwicksolution/star-api.git
+[submodule "star-gui"]
+	path = star-gui
+	url = https://github.com/sushilbailiwicksolution/star-gui.git
